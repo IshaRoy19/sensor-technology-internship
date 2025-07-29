@@ -1,4 +1,3 @@
-# sensor-technology-internship
 # Sensor Technology Internship
 
 *Duration:* 27 June – 24 July 2025  
